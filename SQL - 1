@@ -1,7 +1,7 @@
 1.  film tablosunda bulunan title ve description sütunlarındaki verileri sırala
-
+```
 SELECT title, description FROM film;
-
+```
 2. film tablosunda bulunan tüm sütunlarında bulunan tüm sütunlardaki verileri film uzunluğu (length) 60'dan büyük ve 75'ten küçük olma koşullarıyla sıralayınız
 
 SELECT*FROM film
