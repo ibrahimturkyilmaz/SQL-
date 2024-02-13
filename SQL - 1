@@ -1,4 +1,4 @@
-1. film tablosunda bulunan title ve description sütunlarındaki verileri sırala
+1.  film tablosunda bulunan title ve description sütunlarındaki verileri sırala
 
 SELECT title, description FROM film;
 
